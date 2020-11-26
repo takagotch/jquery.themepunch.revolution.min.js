@@ -1,7 +1,9 @@
 ### jquery.themepunch.revolution.min.js
 ---
 
-(demo)[https://github.com/takagotch/page180]
+
+[demo](https://github.com/takagotch/page180)
+
 
 ```
 
